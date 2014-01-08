@@ -8,10 +8,12 @@ stdloggly
 ## Example
 
 #### Spawn a child process that logs to your Loggly account.
-`stdloggly --auth <loggly-auth-token> tail -f app.log`: Monitor app.log, and send its contents to Loggly API.
+Monitor app.log, and send its contents to Loggly API.
+
+`stdloggly --auth <loggly-auth-token> tail -f app.log`
 
 #### You can also pipe data into stdloggly!  
-Here's an example logging *Parse Cloud Code* logs to Loggly.
+Log *Parse Cloud Code* logs to Loggly.
 
 `parse log -f | stdloggly --auth <loggly-auth-token>`
 
