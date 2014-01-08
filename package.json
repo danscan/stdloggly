@@ -1,6 +1,6 @@
 {
   "name": "stdloggly",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Send any program's stdout and stderr to Loggly.",
   "main": "index.js",
   "bin": "index.js",
@@ -28,6 +28,7 @@
   "homepage": "https://github.com/dscanlonpa/stdloggly",
   "dependencies": {
     "commander": "~2.1.0",
-    "request": "~2.31.0"
+    "request": "~2.31.0",
+    "debug": "~0.7.4"
   }
 }
