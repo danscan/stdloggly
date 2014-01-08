@@ -1,22 +1,22 @@
 stdloggly
 =========
 
-Run program... Stdout and stderr go to your loggly account.
+Send any program's stdout and stderr to [Loggly](http://loggly.com).
 
-# Installation
+## Installation
 
 `npm install -g stdloggly`
 
-# Usage
+## Usage
 
 `stdloggly --auth [loggly auth token] --account [loggly account] node app.js`
 
-## Parameters
+### Parameters
 
-`-t` or `--auth`: Your loggly auth token
-`-a` or `--account`: Your loggly account
++ `-t` or `--auth`: Your loggly auth token
++ `-a` or `--account`: Your loggly account
 
-## Options
+### Options
 
-`-p` or `--prefix`: An optional prefix for your logs
-`-q` or `--quiet`: Only log to loggly; don't output anything to stdout/stderr
++ `-p` or `--prefix`: An optional prefix for your logs
++ `-q` or `--quiet`: Only log to loggly; don't output anything to stdout/stderr
