@@ -1,6 +1,6 @@
 {
   "name": "stdloggly",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Send any program's stdout and stderr to Loggly.",
   "main": "index.js",
   "scripts": {
