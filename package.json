@@ -1,0 +1,31 @@
+{
+  "name": "stdloggly",
+  "version": "0.0.1",
+  "description": "Send any program's stdout and stderr to Loggly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dscanlonpa/stdloggly.git"
+  },
+  "keywords": [
+    "stdout",
+    "stderr",
+    "console",
+    "log",
+    "loggly",
+    "remote",
+    "logging"
+  ],
+  "author": "Dan Scanlon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dscanlonpa/stdloggly/issues"
+  },
+  "homepage": "https://github.com/dscanlonpa/stdloggly",
+  "dependencies": {
+    "loggly": "~1.0.3"
+  }
+}
