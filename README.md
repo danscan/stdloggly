@@ -1,7 +1,9 @@
 stdloggly
 =========
+#### Send logs from anything to [Loggly](http://loggly.com)!
+![stdloggly](https://raw.github.com/dscanlonpa/stdloggly/master/stdloggly.png)
 
-Send logs from anything to [Loggly](http://loggly.com)!
+* * *
 
 ## Example
 
