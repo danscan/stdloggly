@@ -1,8 +1,9 @@
 {
   "name": "stdloggly",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Send any program's stdout and stderr to Loggly.",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
