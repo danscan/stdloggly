@@ -1,7 +1,7 @@
 stdloggly
 =========
 
-Send any program's stdout and stderr to [Loggly](http://loggly.com).
+Start a process and send its stdout and stderr to [Loggly](http://loggly.com).
 
 ## Installation
 
