@@ -1,5 +1,4 @@
-stdloggly
-=========
+![stdloggly]()
 
 Send logs from anything to [Loggly](http://loggly.com)!
 
